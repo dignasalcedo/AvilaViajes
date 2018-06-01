@@ -56,56 +56,56 @@
     position: absolute;
     top: 35%;
     left: 3%;
-    width: 125px;
-    height: 70px;
+    width: 9%;
+    height: 11%;
 }
 
 .divParentImg2 {
     position: absolute;
     top: 52%;
     left: 3%;
-    width: 125px;
-    height: 70px;
+    width: 9%;
+    height: 11%;
 }
 
 .divParentImg3 {
     position: absolute;
     top: 69%;
     left: 3%;
-    width: 125px;
-    height: 70px;
+    width: 9%;
+    height: 11%;
 }
 
 .divParentImg4 {
     position: absolute;
     top: 86%;
     left: 3%;
-    width: 65px;
-    height: 70px;
+    width: 5%;
+    height: 11%;
 }
 
 .divParentImg5 {
     position: absolute;
     top: 37%;
     right: 3%;
-    width: 100px;
-    height: 100px;
+    width: 7%;
+    height: 15%;
 }
 
 .divParentImg6 {
     position: absolute;
     top: 55%;
     right: 3%;
-    width: 100px;
-    height: 100px;
+    width: 7%;
+    height: 15%;
 }
 
 .divParentImg7 {
     position: absolute;
     top: 73%;
     right: 3%;
-    width: 100px;
-    height: 100px;
+    width: 7%;
+    height: 15%;
 }
 
 /* Estilo de la etiqueta telefono en la seccion contactos  */

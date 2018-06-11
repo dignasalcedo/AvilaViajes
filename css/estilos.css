@@ -1,4 +1,51 @@
 /* EStilo del Menu */
+.logoIndex{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    width: 18%;
+    height: 70%;
+}
+
+.logoEnamorateDelCaribe{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    width: 18%;
+    height: 40%;
+}
+
+.logoCuidaTuSonrisa{
+    position: absolute;
+    top: 20%;
+    right: 2%;
+    width: 18%;
+    height: 60%;
+}
+
+.logoEnamorateDeMerida{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    width: 18%;
+    height: 70%;
+}
+
+.logoEscapeGayMiami{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    width: 18%;
+    height: 70%;
+}
+
+.logoLaRutaDelRon{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    width: 18%;
+    height: 45%;
+}
 
 .div-navbar {
     background: transparent;
@@ -110,14 +157,31 @@
 
 /* Estilo de la etiqueta telefono en la seccion contactos  */
 
-.phone-number {
+.phone-numberVzla {
     position: absolute;
-    top: 52%;
+    top: 53%;
     left: 14%;
-    height: 75px;
     color: #fff;
     text-shadow: 4px 2px 5px #000;
-    font-size: 40px;
+    font-size: 4.5vh;
+}
+
+ .phone-numberWhatssap {
+    position: absolute;
+    top:73%;
+    right: 12%;
+    color: #fff;
+    text-shadow: 4px 2px 5px #000;
+    font-size: 4.5vh;
+}
+
+.email {
+    position: absolute;
+    top: 87%;
+    left: 14%;
+    color: #fff;
+    text-shadow: 4px 2px 5px #000;
+    font-size: 4.5vh;
 }
 
 /* Titulo seccion Mas Vendidos */
